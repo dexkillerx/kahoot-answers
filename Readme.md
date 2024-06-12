@@ -18,13 +18,18 @@ To install this project, follow the steps below:
 
     ```bash
     git clone https://github.com/dexkillerx/kahoot-answers.git
-    cd kahoot-bot
+    cd kahoot-anwers
     ```
 
 2. Install the dependencies:
 
     ```bash
     npm install
+    ```
+
+## Or download the module
+    ```bash
+    npm i kahoot-answers
     ```
 
 ## Configuration
