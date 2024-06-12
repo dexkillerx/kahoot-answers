@@ -27,10 +27,12 @@ To install this project, follow the steps below:
     npm install
     ```
 
-## Or download the module
+## Or download the package
+
+To install this package, write this in your cmd:
 
     ```bash
-    npm i kahoot-answers
+    npm install kahoot-answers
     ```
 
 ## Configuration
